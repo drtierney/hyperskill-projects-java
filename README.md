@@ -1,8 +1,18 @@
 # hyperskill
 Contains projects produced on Hyperskill - [My Hyperskill Profile](https://hyperskill.org/profile/518836)
 
-<!-- START doctoc -->
-<!-- END doctoc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Simple Chatty Bot (Java)](#simple-chatty-bot-java)
+- [Coffee Machine (Java)](#coffee-machine-java)
+- [Encryption-Decryption (Java)](#encryption-decryption-java)
+- [Simple Search Engine (Java)](#simple-search-engine-java)
+- [Tic-Tac-Toe (Java)](#tic-tac-toe-java)
+- [Flashcards](#flashcards)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Simple Chatty Bot (Java)
 A simple bot that will help you in your learning and make it more fun.
