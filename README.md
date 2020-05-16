@@ -1,6 +1,9 @@
 # hyperskill
 Contains projects produced on Hyperskill - [My Hyperskill Profile](https://hyperskill.org/profile/518836)
 
+<!-- START doctoc -->
+<!-- END doctoc -->
+
 ## Simple Chatty Bot (Java)
 A simple bot that will help you in your learning and make it more fun.
 https://hyperskill.org/projects/31
