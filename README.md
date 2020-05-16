@@ -11,6 +11,7 @@ Projects
 - [Simple Search Engine (Java)](#simple-search-engine-java)
 - [Tic-Tac-Toe (Java)](#tic-tac-toe-java)
 - [Flashcards](#flashcards)
+- [Readability Score](#readability-score)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
