@@ -1,4 +1,4 @@
-# hyperskill
+# HyperSkill Projects
 Contains projects produced on Hyperskill - [My Hyperskill Profile](https://hyperskill.org/profile/518836)
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -140,3 +140,9 @@ Using statistics, set a correct answer for each card and teach the game to deter
 
 **Stage 7 IMPORTant**
 Enable the user to import files right upon starting the game, working with command-line arguments. 
+
+## Readability Score
+Developing a program that can identify the difficulty of a piece of text and identify the suitable reading age.
+
+** Stage 1 Simple estimatation
+Input a phrase or a sentence for the program to determine its difficulty level based on the symbol count. 
