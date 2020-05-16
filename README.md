@@ -3,7 +3,7 @@ Contains projects produced on Hyperskill - [My Hyperskill Profile](https://hyper
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**
+Projects
 
 - [Simple Chatty Bot (Java)](#simple-chatty-bot-java)
 - [Coffee Machine (Java)](#coffee-machine-java)
