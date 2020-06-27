@@ -156,4 +156,26 @@ Apply your knowledge of advanced strings, arrays and regular expressions: determ
 Add a readability score based on a special formula: it will estimate the difficulty levels of larger bodies of texts uploaded from a file.
 
 **Stage 4 More parameters**
-More parameters can be taken into account: for example, you can consider syllables and letters. Enable the program to base its estimation on those parameters altogether. 
+More parameters can be taken into account: for example, you can consider syllables and letters. Enable the program to base its estimation on those parameters altogether.
+
+## Numeral System Converter
+A program to convert between different numeral systems such as binary, decimal, fractional.
+https://hyperskill.org/projects/41
+
+**Stage 1 For example**
+Start with outputs and the binary system: print a line with an example conversion.
+
+**Stage 2 Almost an octopus**
+Learn the basics of working with Scanner class: teach the converter to determine the last digit of the octal number, converted from the decimal system.
+
+**Stage 3 Convert decimals**
+With the help of switch operator and prefixes, convert the number to any system of your choice.
+
+**Stage 4 Any which radix**
+Upgrade your converter: enable it to convert numbers from and to any numeral system. Practice arrays, loops and strings.
+
+**Stage 5 Converting fractions**
+Make it possible for the converter to work with fractions as well (that is, float and double datatypes).
+
+**Stage 6 Error!**
+Mistakes are inevitable: teach your converter to handle them and report errors if they occur.
