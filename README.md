@@ -12,6 +12,7 @@ Projects
 - [Tic-Tac-Toe (Java)](#tic-tac-toe-java)
 - [Flashcards](#flashcards)
 - [Readability Score](#readability-score)
+- [Numeral System Converter](#numeral-system-converter)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
