@@ -16,6 +16,7 @@ Projects
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+NOTE: These projects will now be hosted in separate repositories e.g. hyperskill-SimpleChattyBot
 ## Simple Chatty Bot (Java)
 A simple bot that will help you in your learning and make it more fun.
 https://hyperskill.org/projects/31
