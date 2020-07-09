@@ -6,14 +6,16 @@ https://hyperskill.org/profile/518836
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 Projects
 
-- [Simple Chatty Bot (Java)](#simple-chatty-bot-java)
-- [Coffee Machine (Java)](#coffee-machine-java)
-- [Encryption-Decryption (Java)](#encryption-decryption-java)
-- [Simple Search Engine (Java)](#simple-search-engine-java)
+- [Hyperskill problems](#hyperskill-problems)
+- [Simple Chatty Bot](#simple-chatty-bot)
+- [Coffee Machine](#coffee-machine)
+- [EncryptionDecryption](#encryptiondecryption)
+- [Simple Search Engine](#simple-search-engine)
 - [Tic-Tac-Toe (Java)](#tic-tac-toe-java)
 - [Flashcards](#flashcards)
 - [Readability Score](#readability-score)
 - [Numeral System Converter](#numeral-system-converter)
+- [Game of Life **(IN PROGRESS)**](#game-of-life-in-progress)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
