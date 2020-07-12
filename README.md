@@ -38,7 +38,7 @@ https://github.com/drtierney/hyperskill-CoffeeMachine
 
 https://hyperskill.org/projects/33
 
-## EncryptionDecryption
+## Encryption Decryption
 Developing a command line application which can encrypt/decrypt strings using various encryption algorithms.  
 https://github.com/drtierney/hyperskill-EncryptionDecryption
 
@@ -54,7 +54,7 @@ https://github.com/drtierney/hyperskill-SimpleSearchEngine
 
 https://hyperskill.org/projects/66
 
-## Tic-Tac-Toe (Java)
+## Tic-Tac-Toe
 Developing a version of Tic-Tac-Toe which allows 2 players to play against each other.  
 https://github.com/drtierney/hyperskill-TicTacToe
 
@@ -72,13 +72,20 @@ https://hyperskill.org/projects/44
 
 ## Readability Score
 Developing a program that can identify the difficulty of a piece of text and identify the suitable reading age.
-https://hyperskill.org/projects/39
+https://github.com/drtierney/hyperskill-ReadabilityScore
 
+<img src="https://github.com/drtierney/hyperskill-ReadabilityScore/blob/master/ReadabilityScore.gif" width="800" height="500" /> 
+
+https://hyperskill.org/projects/39
 
 ## Numeral System Converter
 A program to convert between different numeral systems such as binary, decimal, fractional.
+https://github.com/drtierney/hyperskill-NumeralSystemConverter
+
+<img src="https://github.com/drtierney/hyperskill-NumeralSystemConverter/blob/master/NumeralSystemConverter.gif" width="800" height="500" /> 
+
 https://hyperskill.org/projects/41
 
 ## Game of Life **(IN PROGRESS)**
-
+Practice using Swing library for creating GUI and get confident working with Random class and multithreading by recreating Conway's Game of Life.
 https://hyperskill.org/projects/54
