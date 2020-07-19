@@ -15,7 +15,7 @@ Projects
 - [Flashcards](#flashcards)
 - [Readability Score](#readability-score)
 - [Numeral System Converter](#numeral-system-converter)
-- [Game of Life **(IN PROGRESS)**](#game-of-life-in-progress)
+- [Game of Life](#game-of-life)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
