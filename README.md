@@ -16,7 +16,7 @@ Projects
 - [Readability Score](#readability-score)
 - [Numeral System Converter](#numeral-system-converter)
 - [Game of Life](#game-of-life)
-- [Budget Manager (IN PROGRESS)](#budget-manager-in-progress)
+- [Budget Manager](#budget-manager)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
