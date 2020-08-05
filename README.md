@@ -17,6 +17,7 @@ Projects
 - [Numeral System Converter](#numeral-system-converter)
 - [Game of Life](#game-of-life)
 - [Budget Manager](#budget-manager)
+- [Simple Banking System (IN-PROGRESS)](#simple-banking-system-in-progress)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
