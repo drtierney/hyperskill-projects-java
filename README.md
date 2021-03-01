@@ -1,5 +1,5 @@
-# HyperSkill Projects
-Contains projects produced on Hyperskill -  
+# HyperSkill Projects (Java)
+Contains Java projects produced on Hyperskill -  
 https://hyperskill.org/profile/518836
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
